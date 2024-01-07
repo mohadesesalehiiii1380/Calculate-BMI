@@ -1,0 +1,1 @@
+This repository is for the software development project of Shariati University of Tehran, which calculates BMI. It is actually a small web project. For test and deploy, pass will be done in GitLab environment
